@@ -6,7 +6,7 @@
 #include <stdlib.h>
 using namespace std;
 
-const string FILE_UNITDB = "/home/ruslan/Документы/Game/unitsdb.db";
+const string FILE_UNITDB = "/home/ruslan/Документы/Game/unitsdb.db";//парсинг
 
 
 sUnit *readUnitsData(int &outSize)
