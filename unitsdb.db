@@ -1,0 +1,12 @@
+1
+;
+;Type MEDIC = 0, UNKNOWN
+;
+;Inithealth, Maxhealth, Points, Range, Power, Healingrange
+0
+80
+80
+3
+2
+8
+30
