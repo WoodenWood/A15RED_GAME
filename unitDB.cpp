@@ -31,6 +31,7 @@ sUnit *readUnitsData(int &outSize)
             outSize = atoi(readLine.c_str());
             res = new sUnit[outSize];
             isReadSize = true;
+            continue;
         }
 
         getline(inFile, readLine);
